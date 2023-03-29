@@ -1,2 +1,2 @@
 # git-gitH
-Just for tutoria.
+Just for tutorial.
